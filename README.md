@@ -93,8 +93,8 @@
   <div class="flecha"></div>
 
   <div class="ruleta" id="ruleta">
-    <div class="opcion grande">Cama grande sin emojis ni nada</div>
-    <div class="opcion pequeña">Cama pequeña sin emojis ni nada</div>
+    <div class="opcion grande">Cama grande</div>
+    <div class="opcion pequeña">Cama pequeña</div>
   </div>
 
   <button onclick="girar()">Girar ruleta</button>
